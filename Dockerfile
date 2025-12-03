@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/aspnet:8.0.17@sha256:68669af44214899b4a5ff5fa0dd5fc10e7e9d665669a44dcbc1a142a99b2ec5b
+FROM mcr.microsoft.com/dotnet/aspnet:8.0.22@sha256:47091f7cee02e448630df85542579e09b7bbe3b10bd4e1991ff59d3adbddd720
 # using the 8.0.17 tag so far
 # Install necessary packages
 WORKDIR /app
